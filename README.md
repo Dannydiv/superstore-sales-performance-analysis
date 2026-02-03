@@ -73,3 +73,10 @@ Second Class shipping sells the most but yields the lowest margins
 #### 🔸 Promote high-margin customer segments
 
 #### 🔸 Review shipping cost efficiency
+
+![Dashboard Overview](images/dashboard_page1.png)
+![Dashboard Overview](images/dashbaord_page2.png)
+![Dashboard Overview](images/dashbaord_page3.png)
+
+
+
